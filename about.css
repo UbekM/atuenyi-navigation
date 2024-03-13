@@ -1,0 +1,13 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-image: url(output-onlinejpgtools.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    object-fit: cover;
+}
+
+h1 {
+    color: brown;
+
+}

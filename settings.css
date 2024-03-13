@@ -1,0 +1,14 @@
+body {
+
+    /* Resetting margin and padding of body */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    /* Setting background color and text color */
+    background-color: #f5f5f5;
+    color: #333;
+
+    /* Applying font family */
+    font-family: "Roboto", sans-serif;
+}
